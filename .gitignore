@@ -1,0 +1,14 @@
+
+*.class
+*.lst
+*.prefs
+\target\*
+target/SpringDataJPAManyToOne-0.0.1-SNAPSHOT.jar
+target/maven-archiver/pom.properties
+target/classes/META-INF/maven/com.example/SpringDataJPAManyToOne/pom.xml
+target/classes/META-INF/maven/com.example/SpringDataJPAManyToOne/pom.properties
+target/classes/META-INF/MANIFEST.MF
+target/classes/application.properties
+target/SpringDataJPAManyToOne-0.0.1-SNAPSHOT.jar.original
+target/surefire-reports/com.example.SpringDataJPAManyToOne.SpringDataJpaManyToOneApplicationTests.txt
+target/surefire-reports/TEST-com.example.SpringDataJPAManyToOne.SpringDataJpaManyToOneApplicationTests.xml
